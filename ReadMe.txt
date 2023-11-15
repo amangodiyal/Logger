@@ -1,6 +1,6 @@
 This is a Visual studio sln.(Standard C++ 17)
 External dependencies: 
-boost_1_83_0 : please download and include in local dir and update the path in the project include path.
+boost_1_83_0 : please download from https://www.boost.org/users/download/ and include in local dir and update the path in the project include path.
 
 /*
 * You can call the logger using before priorities/severity
