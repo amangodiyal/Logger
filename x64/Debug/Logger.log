@@ -1,0 +1,10 @@
+﻿  main.cpp
+E:\Logger\Logger\logger.h(110,30): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+E:\Logger\Logger\logger.h(110,20): warning C4244: 'initializing': conversion from '__int64' to 'const long', possible loss of data
+E:\Logger\Logger\logger.h(111,34): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+E:\Logger\Logger\logger.h(111,22): warning C4244: 'initializing': conversion from '__int64' to 'const long', possible loss of data
+E:\Logger\Logger\logger.h(112,34): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+E:\Logger\Logger\logger.h(112,22): warning C4244: 'initializing': conversion from '__int64' to 'const long', possible loss of data
+E:\Logger\Logger\logger.h(113,53): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+E:\Logger\Logger\logger.h(113,27): warning C4244: 'initializing': conversion from '__int64' to 'const long', possible loss of data
+  Logger.vcxproj -> E:\Logger\Logger\x64\Debug\Logger.exe
